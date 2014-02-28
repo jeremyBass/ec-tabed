@@ -1,0 +1,9 @@
+{
+  "name": "bass.tabed",
+  "title": "Tabed",
+  "description": "Make tabs visible on Edge Code",
+  "homepage": "https://github.com/jeremyBass/ec-tabed",
+  "version": "0.0.1",
+  "author": "jeremyBass (https://github.com/jeremyBass)",
+  "license": "MIT"
+}
